@@ -4,11 +4,11 @@
 </p>
 <h3 align="center">I am a college student currently pursuing a Bachelor's degree in Informatics.</h3>
 <!-- <br>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fushigo&label=Profile%20views&color=0e75b6&style=flat" alt="fushigo" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-zukii&label=Profile%20views&color=0e75b6&style=flat" alt="ka-zukii" /> </p> -->
 <br>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@fushigo?theme=rule34" alt="fushigo" />
+  <img src="https://count.getloli.com/get/@ka-zukii?theme=rule34" alt="ka-zukii" />
 </div>
 
 ## Development Tools
@@ -49,12 +49,12 @@
 
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fushigo&show_icons=true&locale=en&layout=compact" alt="fushigo" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fushigo&theme=default" alt="fushigo" />  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-zukii&show_icons=true&locale=en&layout=compact" alt="ka-zukii" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-zukii&theme=default" alt="ka-zukii" />  
 </div>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fushigo&margin-w=15&margin-h=15" alt="fushigo" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-zukii&margin-w=15&margin-h=15" alt="ka-zukii" /></a> </p>
 
 
