@@ -48,10 +48,10 @@
 ![DISCORD.JS](https://img.shields.io/badge/Discord.JS-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 
-<div>
+<!-- <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-zukii&show_icons=true&locale=en&layout=compact" alt="ka-zukii" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-zukii&theme=default" alt="ka-zukii" />  
-</div>
+</div> -->
 
 <br/>
 
