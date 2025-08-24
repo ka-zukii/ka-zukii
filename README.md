@@ -26,7 +26,7 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kazukii&theme=transparent&hide_border=false&layout=compact&custom_title=Languages%20Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kazukii&theme=transparent&hide_border=false&layout=compact&custom_title=Weekly%20Summary" />
+      <img src="https://wakatime.com/share/@Kazukii/4773608a-8584-4401-ae5e-3b4aed85fdbf.png"/>
     </td>
   </tr>
 </table>
