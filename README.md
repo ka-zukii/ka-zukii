@@ -26,8 +26,7 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kazukii&theme=transparent&hide_border=false&layout=compact&custom_title=Languages%20Stats" />
     </td>
     <td>
-      <!-- WakaTime Projects (via waka-box or waka-readme, bukan bawaan github-readme-stats) -->
-      <img src="images/waka-projects.png" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kazukii&theme=transparent&hide_border=false&layout=compact&custom_title=Weekly%20Summary" />
     </td>
   </tr>
 </table>
