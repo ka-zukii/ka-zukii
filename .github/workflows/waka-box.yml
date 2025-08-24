@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # update tiap hari pukul 00:00 UTC
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
@@ -18,7 +18,7 @@ jobs:
       - name: Generate WakaTime stats
         uses: matchai/waka-box@v1
         with:
-          username: Kazukii          
+          username: Kazukii
           output-path: images/waka-projects.png
           theme: transparent
           type: weekly
