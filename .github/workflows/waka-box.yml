@@ -21,7 +21,8 @@ jobs:
           username: Kazukii          
           output-path: images/waka-projects.png
           theme: transparent
-          type: weekly                
+          type: weekly
+          api-key: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Commit & push changes
         run: |
