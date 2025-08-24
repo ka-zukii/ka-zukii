@@ -27,7 +27,7 @@
     </td>
     <td>
       <!-- WakaTime Projects (via waka-box or waka-readme, bukan bawaan github-readme-stats) -->
-      <img src="https://raw.githubusercontent.com/Kazukii/Kazukii/main/images/waka-projects.png" />
+      <img src="images/waka-projects.png" />
     </td>
   </tr>
 </table>
